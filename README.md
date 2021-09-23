@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any project, although I am focusing on embedded systems
 - 📫 How to reach me ... t.me/codeando
 - 👋 puedo ayudarte a hacer paginas web rapidamente incluso tiendas virtuales, o también colaborarte en proyectos IOT 
+- ✨ JAMstack
 
 <!---
 ktorion/ktorion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
