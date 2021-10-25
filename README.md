@@ -29,7 +29,7 @@ two-factor authentication
 clouds:
 basic knowledge aws, gcp, azure, netlify, gatsby cloud ( create instances, and deploy code from control version software)
 k8s bare-metal enthusiat
-
+digital_ ocean tutorial  colab
 
 soft skills:
 -I like teamwork, interested in a git workflow
