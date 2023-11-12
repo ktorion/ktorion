@@ -8,7 +8,6 @@
 
 ## Frameworks:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -73,4 +72,4 @@
 
 
 
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=ktorion&layout=compact)](https://github.com/ktorion)
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=@ktorion&layout=compact)](https://github.com/ktorion)
